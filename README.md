@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dalva-code/dalva-code/blob/main/banner.png" alt="Banner" width="500"/>
+  <img src="https://github.com/dalva-code/dalva-code/blob/main/banner.png" alt="Banner" width="100%" />
 </p>
 
 # 👨‍💻 David Alvarado | Blockchain & ML Developer
