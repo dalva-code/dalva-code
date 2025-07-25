@@ -8,7 +8,8 @@
 
 ## 🚀 About Me
 
-From watching the rise of the internet and early phones to diving into Web3 in 2020, I've always been passionate about tech evolution.  
+From watching the rise of the internet and early phones to diving into Web3 in 2020, I've always been passionate about tech evolution.
+
 Currently training and building dApps using **Solidity**, **Foundry**, **Remix**, and **Ether.js** with a strong focus on **RWA**, **DAOs**, and **DeFi**.  
 I'm completing my **Erasmus internship in Germany** and working on several projects while studying full-time.  
 Also skilled in **Machine Learning** with AWS tools and academic projects in **Python**.
