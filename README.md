@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/dalva-code/dalva-code/blob/main/banner.png" alt="Banner" />
+</p>
+
 # 👨‍💻 David Alvarado | Blockchain & ML Developer
 
 🎓 **Student** in Computer Engineering & Business Administration (Dual Degree) – graduating in 2026  
