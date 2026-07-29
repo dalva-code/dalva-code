@@ -48,7 +48,7 @@ Isabel I University, Burgos (Spain)
 ## 🌐 Languages
 
 - Spanish: Native  
-- English: Advanced (Cambridge B2 Certified, 3 years in the UK)
+- English: Advanced (Cambridge C1 Certified, 3 years in the UK)
 
 ---
 
