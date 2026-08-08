@@ -19,7 +19,7 @@ I am a **Software Engineer & Business Administrator** passionate about building 
 Combining a rigorous engineering background with business strategy. My recent work includes engineering **decoupled UI resilience layers ("Bunker Mode")** for international platforms in Greece, automating **CI/CD pipelines**.
 
 - 🔭 **Currently Building:** Production backend microservices, LLM/RAG workflows with Python & AWS, and advanced Web3 smart contracts (Solidity/Foundry/Hedera).
-- 
+  
 - 🌍 **Location & Logistics:** 100% Remote ready from Gran Canaria (Spain) with C1 English fluency and full availability to travel for key team offsites.
 
 ---
