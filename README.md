@@ -16,10 +16,10 @@
 
 I am a **Software Engineer & Business Administrator** passionate about building high-availability systems, production-ready AI workflows, and fault-tolerant decentralized applications. 
 
-Combining a rigorous engineering background with business strategy, I specialize in translating complex operational needs into scalable technical architectures. My recent work includes engineering **decoupled UI resilience layers ("Bunker Mode")** for international platforms in Greece, automating **CI/CD pipelines**, and designing **smart contract architectures** across EVM environments.
+Combining a rigorous engineering background with business strategy. My recent work includes engineering **decoupled UI resilience layers ("Bunker Mode")** for international platforms in Greece, automating **CI/CD pipelines**.
 
 - 🔭 **Currently Building:** Production backend microservices, LLM/RAG workflows with Python & AWS, and advanced Web3 smart contracts (Solidity/Foundry/Hedera).
-- ⚡ **Engineering Philosophy:** *"Build for zero-downtime, design for fault tolerance, and align code with real business metrics."*
+- 
 - 🌍 **Location & Logistics:** 100% Remote ready from Gran Canaria (Spain) with C1 English fluency and full availability to travel for key team offsites.
 
 ---
