@@ -12,9 +12,9 @@
 
 ## 📌 Executive Profile
 
-Software Engineer holding a **Dual Degree in Computer Engineering and Business Administration (ADE)**, backed by a prior 9-year foundational career in **Professional Sound Engineering**.
+Software Engineer holding a **Dual Degree in Computer Engineering and Business Administration (ADE)**, backed by foundational technical studies in **Sound Engineering (Associate Degree)** and high-pressure operational experience.
 
-Specialized in bridging deep technical execution with business viability:
+Specialized in bridging robust software engineering with business execution:
 - **Resilient Web Applications:** Architectural lead for production-facing applications using Angular 19 (Signals), React, and automated CI/CD pipelines.
 - **Edge AI & Audio DSP:** Engineering low-latency on-device inference pipelines (<500ms) with PyTorch, Librosa, and hardware acceleration (Apple Silicon MPS).
 - **Web3 Infrastructure:** Developing auditable, tested EVM Smart Contracts with Solidity and Foundry.
