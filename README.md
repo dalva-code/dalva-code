@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.png" alt="David Esteban Correa Alvarado Banner" style="max-width: 100%; height: auto;" />
+  <img src="banner.png" alt="David Esteban Correa Alvarado Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 # 👨‍💻 David Esteban Correa Alvarado
