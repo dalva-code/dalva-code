@@ -1,78 +1,75 @@
 <p align="center">
-  <img src="https://github.com/dalva-code/dalva-code/blob/main/banner.png" alt="Banner" style="max-width: 100%; height: auto;" />
+  <img src="banner.png" alt="David Esteban Correa Alvarado Banner" style="max-width: 100%; height: auto;" />
 </p>
 
 # 👨‍💻 David Esteban Correa Alvarado
-### **Software Engineer & Tech Solutions Architect** 
-#### *AI/ML Pipelines | Resilient Fullstack Systems | Web3 & Smart Contracts*
+### Software Engineer & Systems Architect | Dual Degree in CS & ADE
+**Gran Canaria, Spain (UTC+0 / WEST)** · *Available for 100% Remote Roles (EU / UK / US)*
 
-🎓 **Computer Engineering & Business Administration (Dual Degree - 2026)**  
-🌍 **Based in Gran Canaria, Spain (UTC+0)** | Open to 100% Remote Global Roles (EU / UK / US)  
-💼 **Bridge between Deep Tech Execution & Business Strategy (ADE)**  
+[LinkedIn](https://www.linkedin.com/in/david-correa-5140a1232/) · [Email](mailto:dalva.dev@proton.me) · [Portfolio / Repositories](#-featured-engineering-showcases)
 
 ---
 
-## 🚀 About Me
+## 📌 Executive Profile
 
-I am a **Software Engineer & Business Administrator** passionate about building high-availability systems, production-ready AI workflows, and fault-tolerant decentralized applications. 
+Software Engineer holding a **Dual Degree in Computer Engineering and Business Administration (ADE)**, backed by a prior 9-year foundational career in **Professional Sound Engineering**.
 
-Combining a rigorous engineering background with business strategy. My recent work includes engineering **decoupled UI resilience layers ("Bunker Mode")** for international platforms in Greece, automating **CI/CD pipelines**.
+Specialized in bridging deep technical execution with business viability:
+- **Resilient Web Applications:** Architectural lead for production-facing applications using Angular 19 (Signals), React, and automated CI/CD pipelines.
+- **Edge AI & Audio DSP:** Engineering low-latency on-device inference pipelines (<500ms) with PyTorch, Librosa, and hardware acceleration (Apple Silicon MPS).
+- **Web3 Infrastructure:** Developing auditable, tested EVM Smart Contracts with Solidity and Foundry.
 
-- 🔭 **Currently Building:** Production backend microservices, LLM/RAG workflows with Python & AWS, and advanced Web3 smart contracts (Solidity/Foundry/Hedera).
-  
-- 🌍 **Location & Logistics:** 100% Remote ready from Gran Canaria (Spain) with C1 English fluency and full availability to travel for key team offsites.
+> 📍 **Logistics:** Operating from the Canary Islands, Spain (UTC+0, fully aligned with London/Dublin and CET). Full EU citizenship, bilingual Spanish/English (C1, 3 years lived in the UK).
 
 ---
 
-## 🛠️ Tech Stack & Capabilities
+## 🛠️ Technical Stack & Core Competencies
 
-| Domain | Technologies & Tools |
+| Domain | Core Technologies & Frameworks |
 | :--- | :--- |
-| **Backend & Systems** | Python (FastAPI, Django, Pydantic), Node.js, C++, REST APIs, PostgreSQL, Docker |
-| **Frontend & UI Resilience** | TypeScript, Angular 19 (Signals), React, Next.js, TailWind CSS, Firebase |
-| **AI / ML & Cloud** | PyTorch, LLM Orchestration, RAG, AWS (Cloud, ML Foundations, NLP), CI/CD (GitHub Actions) |
-| **Web3 & DLT** | Solidity, Foundry, Ethers.js, Arbitrum L2, EVM Architecture, DeFi Protocols, RWA |
-| **Architecture & Business** | System Design, Software Resiliency, Financial Modeling (ADE), Agile/Scrum, Jira |
+| **Backend & Systems** | Python (FastAPI, asyncio, Pydantic V2), Node.js, C++, REST APIs, PostgreSQL, SQLite, Docker |
+| **Frontend & UI Resilience** | TypeScript, Angular 19 (Signals), React 18, Next.js, HTML5 Canvas API, Tailwind CSS |
+| **AI, ML & Signal Processing** | PyTorch, MobileNetV3, Librosa (DSP, Mel Spectrograms), Faster-Whisper, Ollama, RAG |
+| **Web3 & Smart Contracts** | Solidity, Foundry, Ethers.js, Layer-2 (Arbitrum One), EVM Architectures, Fuzz Testing |
+| **Cloud & DevOps** | GitHub Actions (CI/CD), AWS (Cloud, ML Foundations, NLP), Firebase |
+| **Business & Strategy** | Unit Economics, SaaS Financial Modeling (ADE), GDPR & EU AI Act Compliance Frameworks |
 
 ---
 
-## 🏗️ Key Engineering Highlights & Projects
+## 🏗️ Featured Engineering Showcases
 
-### 📱 **M-Academy MVP — Fullstack & Systems Resilience Lead**
-- Designed and delivered the core architecture for an international educational platform during an engineering stint in Athens.
-- Built **"Bunker Mode"** (using Angular 19 & Signals) to decouple third-party streaming API dependencies (Spotify/Tidal), guaranteeing 100% UI uptime during upstream outages.
-- Engineered automated **GitHub Actions CI/CD pipelines**, reducing deployment cycles from 15 minutes down to 2 minutes.
+### 📱 [M-Academy MVP — UI Resilience & Delivery Lead](https://github.com/dalva-code/Athens-production-architecture)
+*Fullstack Developer & Technical Lead (Athens, Greece)*
+- Architected the frontend-backend communication bridge for an ed-tech platform in the music industry.
+- Engineered **"Bunker Mode"** utilizing Angular 19 Signals and Feature Flags, ensuring 100% UI uptime during upstream API downtime.
+- Offloaded compilation to cloud runners via **GitHub Actions CI/CD**, reducing deployment cycles from 15 minutes to under 2 minutes.
 
-### ⛓️ **EVM Smart Contract Architectures & Web3 Accelerator**
-- Built and tested 10+ smart contract protocols using **Solidity, Foundry, and Ethers.js** on Arbitrum L2.
-- **[ScholarshipRental](https://github.com/dalva-code/ScholarshipRental):** Decentralized housing scholarship escrow system with dynamic access control and automated yield mechanisms.
-- Developed DeFi staking vaults, NFT marketplaces, and arithmetic validation contracts ([Solidity Calculator](https://github.com/dalva-code/solidity-calculator)).
+### 🍼 [Edge AI Infant Cry Classifier](https://github.com/dalva-code/edge-ai-infant-cry-classifier)
+*Computer Engineering Thesis Project (Grade: 8.3/10)*
+- Designed an on-device bioacoustic classification pipeline using **PyTorch** and **MobileNetV3-Small** (6.2 MB disk footprint).
+- Built a **Librosa DSP pipeline** (22,050 Hz sampling, Hann windowing, 128 Mel bands) achieving a **94.9% data dimensionality reduction**.
+- Achieved **<480ms end-to-end inference** using Apple Silicon Metal Performance Shaders (MPS), with 85.7% accuracy on untouched analog blind tests.
+
+### 🎙️ [Senior Voice Assistant](https://github.com/dalva-code/senior-voice-assistant)
+*Accessible Ambient Voice Agent Prototype*
+- Implemented an asynchronous voice messaging pipeline under strict **Hexagonal Architecture (Ports and Adapters)** with sub-1.45s latency.
+- Engineered dynamic **phonetic STT biasing** in Faster-Whisper and fuzzy phonetic matching (`rapidfuzz`) to eliminate degradation on colloquial Spanish names.
+- Configured local LLM intent routing with Ollama, non-blocking `aiosqlite` storage, and structured logging.
 
 ---
 
 ## 🎓 Education & Certifications
 
-- **🎓 Dual Degree in Computer Engineering & Business Administration (ADE)** — *Isabel I University (2021–2026)*
-- **📜 Web3 & Blockchain Master Accelerator** — *Smart Contract Development, Foundry & DLT Systems (2025–2026)*
-- **☁️ AWS Academy Accredited:** Cloud Foundations | Machine Learning Foundations | Natural Language Processing (NLP)
-- **🛡️ Cisco Certified:** Cybersecurity & Network Essentials
+- **Dual Degree in Computer Engineering & Business Administration (ADE)** — *Universidad Isabel I (2021–2026)*
+- **Higher Technical Certificate in Professional Sound Engineering** — *I.E.S. Politécnico (Grade: 7.9/10, 2012–2014)*
+- **Web3 & Blockchain Master Accelerator** — *Foundry, Solidity & EVM Architecture (2025–Present)*
+- **AWS Academy Accreditations:** Cloud Foundations | Machine Learning Foundations | NLP Foundations
+- **Cisco Networking Academy:** Cybersecurity & Network Essentials
 
 ---
 
-## 🌐 Languages & Communication
+## 📬 Contact & Channels
 
-- **Spanish:** Native (C2)
-- **English:** Advanced / Full Professional Proficiency (**Cambridge C1 Certified**, 3 years lived in the UK)
-
----
-
-## 📬 Connect with Me
-
-- 💼 **LinkedIn:** [linkedin.com/in/david-correa-5140a1232](https://www.linkedin.com/in/david-esteban-correa-alvarado-5140a1232/)  
-- 🐙 **GitHub:** [github.com/dalva-code](https://github.com/dalva-code)  
-- 📧 **Email:** [dalva.dev@proton.me](mailto:dalva.dev@proton.me)  
-
----
-<p align="center">
-  <sub><i>Currently building scalable software, continuously learning. Open to high-impact Remote Engineering teams.</i></sub>
-</p>
+- **LinkedIn:** [linkedin.com/in/david-correa-5140a1232](https://www.linkedin.com/in/david-correa-5140a1232/)
+- **GitHub:** [github.com/dalva-code](https://github.com/dalva-code)
+- **Direct Email:** [dalva.dev@proton.me](mailto:dalva.dev@proton.me)
